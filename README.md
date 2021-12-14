@@ -16,3 +16,6 @@ Im Ahtisham Ali 62976 student of final year BsCs at PAF-KIET, Im also doing my F
 
 I'm Faiq Nasir 62954 student of BSCS final year from PAF KIET university, Personality wise I'm a person who loves challenges in life and always looking forward solve them the best way possible, moreover I'm a team player who loves to help his team succeed in life with him together. Talking about the course HCI , I've been learning alot about the new ways to help users interact with computers from different perspective either with help of designing or skills which are unique in nature. It definately helps me in expanding
 my knowledge about user computer interations.
+
+I'm Muhammad Omais Bin Zaki 62710 student of BSCS final year from PAF-KIET, I am doing my FYP-1, I am a fast learner who is always ready to learn about new technology main reason to get enrolled in HCI is that it is a pre-requisite for FYP-2 and it helps to improve my knowledge about User Interface and interaction with computer.
+ 
