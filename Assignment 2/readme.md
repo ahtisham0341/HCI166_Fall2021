@@ -26,6 +26,13 @@
 ###### The Internet and Collaborative Works in the 1990s.
 
    In the 1990s, the Internet began its journey. As a result, people were able to communicate more easily. As a result, many new technologies for better communication have emerged.
+   
+#### Refrences
+
+1. https://www.interaction-design.org/literature/article/a-brief-history-of-human-computer-interaction
+2. https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
+3. https://info.keylimeinteractive.com/a-brief-overview-of-the-history-of-human-computer-interaction
+
  
 ###### Mobile Computing in the 2000s and Beyond
 
