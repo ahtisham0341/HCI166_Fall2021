@@ -27,13 +27,15 @@
 
    In the 1990s, the Internet began its journey. As a result, people were able to communicate more easily. As a result, many new technologies for better communication have emerged.
    
+   
+ ###### Mobile Computing in the 2000s and Beyond
+
+The world of today is ruled by computers, mobile phones, laptops, and smart phones. They provide people with a variety of services such as SMS, multimedia, games, email, internet, chatting, video conferencing, GPS, and so on.
+
+
+
 #### Refrences
 
 1. https://www.interaction-design.org/literature/article/a-brief-history-of-human-computer-interaction
 2. https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
 3. https://info.keylimeinteractive.com/a-brief-overview-of-the-history-of-human-computer-interaction
-
- 
-###### Mobile Computing in the 2000s and Beyond
-
-The world of today is ruled by computers, mobile phones, laptops, and smart phones. They provide people with a variety of services such as SMS, multimedia, games, email, internet, chatting, video conferencing, GPS, and so on.
