@@ -12,6 +12,12 @@ We all Know that how pandemic make our life difficult we face many problems. One
 These are the some problem we disscussed above.
 
 
+![A](https://user-images.githubusercontent.com/68895242/147877809-7808f9a1-b621-4b2a-b558-c90daae944b5.jpeg)
+
+
+![B](https://user-images.githubusercontent.com/68895242/147877810-18721252-a900-40f2-a63b-e4acb77e6a95.jpeg)
+
+
 
 ## Final 10 Ideas:
 
