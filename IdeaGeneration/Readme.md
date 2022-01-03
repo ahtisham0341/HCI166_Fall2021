@@ -1,5 +1,12 @@
 # Idea Genration For Hybrid ClassRoom For Under Prviliege Schools
 
+### GROUP MEMBERS ###
+Std_ID | Name
+------------ | -------------
+**62976* | **Ahtisham Ali** <!--Group Leader-->
+62710 | Muhammad Omais
+62954 | Faiq Nasir
+
 # Core Problem-Double Diamond FrameWork
   
 We all Know that how pandemic make our life difficult we face many problems. One of the main problem is that childern living in underprivilege areas are unable to go to schools and they cannot continue thier studies because lack of facilities and teacher teaching in underprivilege area face many problems.
