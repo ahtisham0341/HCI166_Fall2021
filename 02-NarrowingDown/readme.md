@@ -12,9 +12,9 @@ Std_ID | Name
 
 1. Online Learning Portal
 
-2 Centers
+2. Centers
 
-3 Guided instructions
+3. Guided instructions
 
 
 ### Final Idea ###
